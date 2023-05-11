@@ -34,5 +34,5 @@ pip install spotipy
 ### Project Execution Flow
 Extract Data From Spotify API -> Lambda Trigger (every 1 hour) -> Run Extract Code -> Store Raw Data -> Trigger Tranform Function -> Tranform Data and Load it -> Query using Athena
 
-### AWS Resources uses in Project [Step by Step Process](https://www.notion.so/AWS-For-data-engineer-Pipeline-Steps-c7203dca22564331a01a1298d850da9b?pvs=4)
+### AWS Resources uses in Project [Step by Step Process](https://lake-monkey-b98.notion.site/AWS-For-data-engineer-Pipeline-Steps-c7203dca22564331a01a1298d850da9b)
 Detail explain of Project execution using AWS resouces with each and every step procees
